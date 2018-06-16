@@ -1,2 +1,0 @@
-# Kazjun
-Created with CodeSandbox
